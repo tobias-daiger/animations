@@ -24,7 +24,7 @@ A MATLAB-based simulation illustrating the decay behavior of a damped pendulum:
 
 ---
 
-## 🛠️ Usage & Setup
+## Usage & Setup
 
 ### MATLAB
 1. Clone the repository:
