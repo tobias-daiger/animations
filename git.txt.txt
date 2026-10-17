@@ -1,0 +1,11 @@
+# Alle Änderungen für den Commit vormerken
+git add -A
+
+# Prüfen, was in den Commit aufgenommen wird
+git status
+
+# Änderungen lokal speichern
+git commit -m "Initial Commit"
+
+# Auf GitHub hochladen
+git push
